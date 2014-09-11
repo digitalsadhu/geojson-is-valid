@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha -R spec test/**/*.spec.js",
-    "test:run": "testem"
+    "test:run": "testem",
+    "jshint": "node_modules/.bin/jshint ."
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
   "homepage": "https://github.com/digitalsadhu/geojson-is-valid",
   "devDependencies": {
     "chai": "1.9.1",
+    "jshint": "^2.5.5",
     "mocha": "1.21.4",
     "testem": "0.6.18"
   },
