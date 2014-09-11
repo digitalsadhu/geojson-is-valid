@@ -5,6 +5,8 @@ Geojson is valid
 
 [![Media Suite](http://mediasuite.co.nz/ms-badge.png)](http://mediasuite.co.nz)
 
+[![Build Status](https://travis-ci.org/digitalsadhu/geojson-is-valid.svg?branch=master)](https://travis-ci.org/digitalsadhu/geojson-is-valid)
+
 This module provides a very light wrapper around the work the file folks at
 mapbox have been doing with [geojsonhint](https://www.npmjs.org/package/geojsonhint)
 to provide simple boolean checks on geojson objects
