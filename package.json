@@ -1,0 +1,29 @@
+{
+  "name": "geojson-is-valid",
+  "version": "0.0.1",
+  "description": "Simple function to determine if geojson objects are valid",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec test/**/*.spec.js",
+    "test:run": "testem"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:digitalsadhu/geojson-is-valid.git"
+  },
+  "keywords": [],
+  "author": "Richard Walker <digitalsadhu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitalsadhu/geojson-is-valid/issues"
+  },
+  "homepage": "https://github.com/digitalsadhu/geojson-is-valid",
+  "devDependencies": {
+    "chai": "1.9.1",
+    "mocha": "1.21.4",
+    "testem": "0.6.18"
+  },
+  "dependencies": {
+    "geojsonhint": "0.3.4"
+  }
+}
