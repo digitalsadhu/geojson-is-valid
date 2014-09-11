@@ -12,7 +12,15 @@
     "type": "git",
     "url": "git@github.com:digitalsadhu/geojson-is-valid.git"
   },
-  "keywords": [],
+  "keywords": [
+    "geojson",
+    "valid",
+    "hint",
+    "lint",
+    "validator",
+    "test",
+    "validation"
+  ],
   "author": "Richard Walker <digitalsadhu@gmail.com>",
   "license": "MIT",
   "bugs": {
