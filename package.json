@@ -1,6 +1,6 @@
 {
   "name": "geojson-is-valid",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple function to determine if geojson objects are valid",
   "main": "index.js",
   "scripts": {
