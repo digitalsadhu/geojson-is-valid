@@ -34,6 +34,6 @@
     "testem": "0.6.18"
   },
   "dependencies": {
-    "geojsonhint": "0.3.4"
+    "geojsonhint": "^2.0.0"
   }
 }
