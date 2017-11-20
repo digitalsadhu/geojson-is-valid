@@ -28,10 +28,10 @@
   },
   "homepage": "https://github.com/digitalsadhu/geojson-is-valid",
   "devDependencies": {
-    "chai": "1.9.1",
+    "chai": "4.1.2",
     "jshint": "^2.5.5",
-    "mocha": "1.21.4",
-    "testem": "0.6.18"
+    "mocha": "4.0.1",
+    "testem": "1.18.4"
   },
   "dependencies": {
     "geojsonhint": "^2.0.0"
