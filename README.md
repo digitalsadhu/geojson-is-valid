@@ -1,9 +1,7 @@
 Geojson is valid
 ================
 
-[![NPM](https://nodei.co/npm/jinn.png?compact=true)](https://nodei.co/npm/geojson-is-valid/)
-
-[![Media Suite](http://mediasuite.co.nz/ms-badge.png)](http://mediasuite.co.nz)
+[![NPM](https://nodei.co/npm/geojson-is-valid.png?compact=true)](https://nodei.co/npm/geojson-is-valid/)
 
 [![Build Status](https://travis-ci.org/digitalsadhu/geojson-is-valid.svg?branch=master)](https://travis-ci.org/digitalsadhu/geojson-is-valid)
 
